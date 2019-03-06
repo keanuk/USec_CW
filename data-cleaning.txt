@@ -1,0 +1,51 @@
+############################
+## Survey Data Cleaning - Dataset Description
+
+The following section describes all the modifications we made to the datasets between when we downloaded the data from LimeSurvey on Jan 28, 2019 from LimeSurvey and posted them here. Here is a summary of changes made:
+
+The initial data set contained:
+
+    Full responses: 60
+    Incomplete responses: 74
+    Total responses: 134
+
+The dataset posted above has gone through a couple of preprocessing steps:
+
+1. We only provide the full responses. You don't have access to incomplete response because these participants did not go through the whole survey, therefore did not answer to consent questions at the end of the survey. Columns are questions and rows are participants. 
+
+    Number of columns: 213
+    Number of rows: 60
+
+2. We removed all participants who were not willing to share their data with USEC course. This resulted in removing one record from our dataset. We also check for records with consent == disagree (first-page consent), no one selected disagree.
+
+    Number of columns: 213
+    Number of rows: 59
+
+3. We only included columns that are relevant to us. LimeSurvey adds some metadata to data export, e.g. time participants spend on each question group and data/time. We removed these from the data. You only get the question data plus overall survey time (column name: interviewtime in seconds).
+
+    Number of columns: 155
+    Number of rows: 59
+
+4. To protect the privacy of our participants, we removed any free text to avoid identifiable data. This includes any questions that have a free text (others) and comments questions at the end of the survey (Seven columns in total were removed, six others and one comment).
+
+    Number of columns: 148
+    Number of rows: 59
+
+5. Our dataset includes two columns with country information (the country participants did their high school and undergraduate). We modified these two columns to make it less possible to identify respondents uniquely. Three categories (geo-locations) are used here: United Kingdom, EU, and overseas. For example, we mapped Romania and Germany to EU. The number of rows and columns stays the same.
+
+6. We noticed that five respondents chose answer options "prefer not to say", "non-binary", and "prefer to self describe" for Gender question which may make those people identifiable. Hence, we decided to put "Other" for any responses to Gender question that are not in {female, male} set. The number of rows and columns stays the same.
+
+7. To make data analysis possible on Likert questions we convert all text responses to numbers. Here is our mapping:
+
+    { "Strongly Disagree" = "1", "Somewhat Disagree" = "2", "Somewhat Agree" = "3", "Strongly Agree" = "4"}
+    { "Never" = "1", "Rarely" = "2", "Sometimes" = "3", "Often" = "4", "Always" = "5"}
+    {"Strongly Disagree" = "1", "Disagree" = "2", "Neither Agree nor Disagree" = "3", "Agree" = "4", "Strongly Agree" = "5"}
+    { "No" = "0", "Yes" = "1" }
+
+
+###########################
+## Final dataset:
+
+    Number of columns: 148
+    Number of rows: 59
+

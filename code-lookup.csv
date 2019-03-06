@@ -1,0 +1,156 @@
+Question code 1;Question code 2;Block Question;Individual Question
+consent;;" Purpose  The purpose of this research project is to learn how computer science students interact with security topics in their studies and daily lives. The results of this research will help educators better understand the starting knowledge and needs of incoming students, not just security students. It will also help us better understand potential sources of attitudes and behaviours observed in professional software developers.  What will I be asked to do?  This survey will take approximately 25 minutes to complete. It will ask you multiple choice questions about different security-related concepts such as your attitudes towards security technologies as well as your awareness of different tools, technologies, and concepts. It will also ask you basic demographic information such as your age and education. Personally identifying information will not be collected.  Voluntary   Your participation in this survey is purely voluntary. At the end of the survey you will be asked to allow us to use your data for education and research purposes. You will have the option of selecting 'no' at that point and if you do so we will not share your survey answers as requested. If you select 'no' to both questions we will delete your data.  How will my data be used?   Your data will be used for two purposes. First, to provide data for the Usable Privacy and Security course so they can learn about survey design and analysis. If you consent to this, the information you provide in the survey will be given to the course students. Second, If you consent to this, we will use your data for research about how students understand and manage security concepts both as end-users and as future software developers.  Compensation  You will receive no compensation for completing this survey other than the knowledge you have benefited the Usable Security and Privacy course students and society more broadly. All participation is anonymous and we have no way of connecting responses to individual survey participants, therefore no compensation through credits or other means is possible.  Who is running the research?  This is a research project being conducted by Dr. Kami Vaniea and Mohammad Tahaei at the University of Edinburgh. If you have any questions about the research study, please contact Dr. Kami Vaniea at kami.vaniea@ed.ac.uk or Mohammad Tahaei at mohammad.tahaei@ed.ac.uk. If you have any concerns about your treatment or right as a research subject, you may contact the School Ethics Panel by e-mail to infkm+ethics@inf.ed.ac.uk. This research complies with the Informatics School ethics procedures for research involving human subjects. Clicking on the """"agree"""" button below indicates that:   you have read the above information 	you voluntarily agree to participate 	you are at least 18 years of age  	you are a student at the University of Edinburgh If you do not wish to participate in the research study, please decline participation by clicking on the """"disagree"""" button or leaving the page.";
+segmentation; westinC; For each of the following statements, how strongly do you agree or disagree? ; Consumers have lost all control over how personal information is collected and used by companies
+segmentation; westinM; For each of the following statements, how strongly do you agree or disagree? ; Most businesses handle the personal information they collect about consumers in a proper and confidential way
+segmentation; westinE; For each of the following statements, how strongly do you agree or disagree? ; Existing laws and organizational practices provide a reasonable level of protection for consumer privacy today
+sebisLikert; sebisF04;  ; I set my computer screen to automatically lock if I don't use it for a prolonged period of time
+sebisLikert; sebisF06;  ; I use a password/passcode to unlock my laptop or tablet
+sebisLikert; sebisF03;  ; I manually lock my computer screen when I step away from it
+sebisLikert; sebisF05;  ; I use a PIN or passcode to unlock my mobile phone
+sebisLikert; sebisF12;  ; I do not change my passwords, unless I have to
+sebisLikert; sebisF13;  ; I use different passwords for different accounts that I have
+sebisLikert; sebisF15;  ; When I create a new online account, I try to use a password that goes beyond the site's minimum requirements
+sebisLikert; sebisF14;  ; I do not include special characters in my password if it’s not required
+sebisLikert; sebisF08;  ; When someone sends me a link, I open it without first verifying where it goes
+sebisLikert; sebisCheck;  ;" Please select """"always"""" for this question"
+sebisLikert; sebisF11;  ; I know what website I'm visiting based on its look and feel, rather than by looking at the URL bar
+sebisLikert; sebisF16;  ;" I submit information to websites without first verifying that it will be sent securely (e.g., SSL, """"https://"""", a lock icon)"
+sebisLikert; sebisF10;  ; When browsing websites, I mouseover links to see where they go, before clicking them
+sebisLikert; sebisF07;  ; If I discover a security problem, I continue what I was doing because I assume someone else will fix it
+sebisLikert; sebisF01;  ; When I'm prompted about a software update, I install it right away
+sebisLikert; sebisF02;  ; I try to make sure that the programs I use are up-to-date
+sebisLikert; sebisF09;  ; I verify that my anti-virus software has been regularly updating itself
+virusLikert; folkV01; Please indicate whether you agree or disagree with the following statements. ; A virus steals personal and/or financial information
+virusLikert; folkV02; Please indicate whether you agree or disagree with the following statements. ; Using an Apple computer means you can't get a virus
+virusLikert; folkV03; Please indicate whether you agree or disagree with the following statements. ; Clicking on advertisements will give you a virus
+virusLikert; folkV04; Please indicate whether you agree or disagree with the following statements. ; Merely visiting the wrong webpages will give you a virus
+virusLikert; folkV05; Please indicate whether you agree or disagree with the following statements. ; A virus kicks me out of applications that are running
+virusLikert; folkV06; Please indicate whether you agree or disagree with the following statements. ; A virus erases important files on the computer
+virusLikert; folkV07; Please indicate whether you agree or disagree with the following statements. ; You can't get a virus if you never download things from the Internet
+virusLikert; folkV08; Please indicate whether you agree or disagree with the following statements. ; A virus causes computers to crash
+virusLikert; folkV09; Please indicate whether you agree or disagree with the following statements. ; The only way to get a virus is by downloading something
+virusLikert; folkV10; Please indicate whether you agree or disagree with the following statements. ; Watching pornography on the Internet will give you a virus
+virusLikert; folkV11; Please indicate whether you agree or disagree with the following statements. ; Strange emails will give you a virus
+virusLikert; folkV12; Please indicate whether you agree or disagree with the following statements. ; You can't get a virus if you keep your anti­virus software up to date
+virusLikert; folkV13; Please indicate whether you agree or disagree with the following statements. ; Downloads from the Internet will give you a virus
+virusLikert; folkV14; Please indicate whether you agree or disagree with the following statements. ; Not paying attention to cookies can result in getting a virus
+virusLikert; folkV15; Please indicate whether you agree or disagree with the following statements. ; Blocking pop­ups makes it very difficult to get a virus
+virusLikert; folkV16; Please indicate whether you agree or disagree with the following statements. ; A virus causes annoying problems
+virusLikert; folkV17; Please indicate whether you agree or disagree with the following statements. ; Being aware of what websites I go to will help me avoid getting a virus
+virusLikert; folkV18; Please indicate whether you agree or disagree with the following statements. ; Anti­virus software always detects viruses
+virusPrecautions; folkVP01; How often do you do the following security precautions to avoid getting a virus? ; Use anti­virus software
+virusPrecautions; folkVP02; How often do you do the following security precautions to avoid getting a virus? ; Use security software such as firewall
+virusPrecautions; folkVP03; How often do you do the following security precautions to avoid getting a virus? ; Be aware of what websites you visit
+virusPrecautions; folkVP04; How often do you do the following security precautions to avoid getting a virus? ; Regularly scan the computer with anti­ virus software
+virusPrecautions; folkVP05; How often do you do the following security precautions to avoid getting a virus? ; Check anti­virus software to make sure it is up to date
+virusPrecautions; folkVP06; How often do you do the following security precautions to avoid getting a virus? ; Avoid clicking on email attachments from people you do not know
+virusPrecautions; folkVP07; How often do you do the following security precautions to avoid getting a virus? ; Block pop­ups
+virusPrecautions; folkVP08; How often do you do the following security precautions to avoid getting a virus? ; Avoid downloading anything without knowing what exactly is being downloaded
+hackersLikert; folkH01; Please indicate whether you agree or disagree with the following statements. ; Hackers target home computer users
+hackersLikert; folkH02; Please indicate whether you agree or disagree with the following statements. ; Hackers are mischievous
+hackersLikert; folkH03; Please indicate whether you agree or disagree with the following statements. ; A hacker makes a record of everything on the computer
+hackersLikert; folkH04; Please indicate whether you agree or disagree with the following statements. ; Hackers target banks
+hackersLikert; folkH05; Please indicate whether you agree or disagree with the following statements. ; A hacker watches what you are doing on your computer
+hackersLikert; folkH06; Please indicate whether you agree or disagree with the following statements. ; Hackers work with other criminals
+hackersLikert; folkH07; Please indicate whether you agree or disagree with the following statements. ; Hackers are members of organized crime
+hackersLikert; folkH08; Please indicate whether you agree or disagree with the following statements. ; Hackers target the upper class
+hackersLikert; folkHCheck; Please indicate whether you agree or disagree with the following statements. ;" Please select """"disagree"""" for this question"
+hackersLikert; folkH09; Please indicate whether you agree or disagree with the following statements. ; Hackers are professional criminals
+hackersLikert; folkH10; Please indicate whether you agree or disagree with the following statements. ; A hacker breaks stuff on the computer
+hackersLikert; folkH11; Please indicate whether you agree or disagree with the following statements. ; Hackers target large databases
+hackersLikert; folkH12; Please indicate whether you agree or disagree with the following statements. ; Hackers target rich and important people
+hackersLikert; folkH13; Please indicate whether you agree or disagree with the following statements. ; A hacker installs monitoring software on the computer
+hackersLikert; folkH14; Please indicate whether you agree or disagree with the following statements. ; A hacker intentionally puts viruses on the computer
+hackersLikert; folkH15; Please indicate whether you agree or disagree with the following statements. ; Hackers target large businesses
+hackersLikert; folkH16; Please indicate whether you agree or disagree with the following statements. ; Hackers have no morals
+hackerPrecautions; folkHP01; How often do you do the following security precautions to avoid being hacked? ; Disable scripting on websites
+hackerPrecautions; folkHP02; How often do you do the following security precautions to avoid being hacked? ; Update patches regularly
+hackerPrecautions; folkHP03; How often do you do the following security precautions to avoid being hacked? ; Disable scripting on emails
+hackerPrecautions; folkHP04; How often do you do the following security precautions to avoid being hacked? ; Back up your information on an external hard­drive, network, or server
+hackerPrecautions; folkHP05; How often do you do the following security precautions to avoid being hacked? ; Be careful downloading software from the Internet
+hackerPrecautions; folkHP06; How often do you do the following security precautions to avoid being hacked? ; Use some pre­existing security software such as firewall
+hackerPrecautions; folkHP07; How often do you do the following security precautions to avoid being hacked? ; Always sign out of accounts when you are done with that website
+hackerPrecautions; folkHP08; How often do you do the following security precautions to avoid being hacked? ; Avoid clicking on attachments
+hackerPrecautions; folkHP09; How often do you do the following security precautions to avoid being hacked? ; Scan your computer regularly with anti­virus software
+hackerPrecautions; folkHP10; How often do you do the following security precautions to avoid being hacked? ; Use good passwords (good passwords include uppercase and lowercase letters, numbers, and symbols)
+cybok01;; Do you know anything about adversarial behaviours?  Examples include adversarial tradecraft and threat agents, attacker models and attack trees and the economics and mechanisms behind malicious business.;
+cybok02;; Do you know anything about digital forensics?  Examples include the various kinds of digital evidence and artefacts as well as the evidence gathering process and anti-forensic techniques.;
+cybok03;; Do you know anything about malware or attack technology?  Examples include the various kinds of malware and viruses, malware analysis and techniques for removing malicious software from systems.;
+cybok04;; Do you know anything about security operations or incident management?  Examples include organisational security policies, incident analysis, security monitoring and threat intelligence.;
+cybok05;; Do you know anything about the human factors of cybersecurity?  Examples include usable security, how users interact with security systems, the human aspects of data collection, as well as ethics, security education and culture.;
+cybok06;; Do you know anything about the legal or regulatory aspects of cybersecurity?  Examples include the relevant legislation and statutory and regulatory requirements, as well as the legal aspects of cybercrime and issues involving cooperation across borders for legal purposes.;
+cybok07;; Do you know anything about privacy or online rights?  Examples include privacy enhancing technology, data privacy techniques (including differential privacy) and transparency, the mechanisms for abuse prevention and covert communication (such as steganography).;
+cybok08;; Do you know anything about cyber risk management or governance?  Examples include threat, risk and impact assessments, asset audits, security management standards (such as the ISO 27000 series), as well as board- level cybersecurity.;
+cybok09;; Do you know anything about the security of cyber-physical systems?  Examples include SCADA, IoT, automotive or industrial control systems as well as the various attacks to and defences for these kinds of systems and the protocols they use to communicate.;
+cybok10;; Do you know anything about hardware security?  Examples include Trusted Platform Modules (TPMs) and secure boot, as well as hardware roots of trust, hardware design and security architectures as well as hardware attacks (such as side-channels), hardware defenses, and hardware accelerated cryptography.;
+cybok11;; Do you know anything about network security?  Examples include network defence tools such as intrusion detection, packet filters and firewalls; network vulnerabilities and threats, and network technologies such as routing protocols, IP networks, wireless and wired networks.
+cybok12;; Do you know anything about physical-layer or telephony security?  Examples include signalling and telephone protocols, telecommunications security, and attacks which rely upon the emanations from physical media (such as TEMPEST).;
+cybok13;; Do you know anything about the secure software development lifecycle?  Examples include code reviews, patch management, devops, development processes, fuzzing, static and dynamic analysis tools, the use of formal methods for security as well as attack modelling and developer training.;
+cybok14;; Do you know anything about software security?  Examples include software and memory management attacks, CVEs and CWEs, structured input attacks (such as SQL injection), security API design, coding guidelines, techniques for mitigating exploits (such as address space layout randomisation or sandboxing), as well as techniques for finding vulnerabilities.;
+cybok15;; Do you know anything about web or mobile security?  Examples include Javascript security models, browser based attacks such as cross site scripting, firewalls, authentication protocols and phishing and app isolation and deployment mechanisms.;
+cybok16;; Do you know anything about authentication, authorisation or accountability?  Examples include access control models, policies, public key infrastructure, multi-factor authentication, biometrics and logging techniques.;
+cybok17;; Do you know anything about cryptography?  Examples include various encryption schemes such as RSA, AES, RC4, as well as game theoretic models for security, digital signatures and zero- knowledge proofs.;
+cybok18;; Do you know anything about distributed systems security?  Examples include security considerations in middleware architectures, distributed protocols such as LDAP, NTP, byzantine agreements, blockchains, cloud architectures, peer-to-peer networks and trust management.;
+cybok19;; Do you know anything about operating systems or virtualisation?  Examples include database security, VM architectures and attacks, OS protection mechanisms such as address space layout randomisation, access control, and paging, as well as information flow models and the trusted computing base.;
+onlineActivities; email; How often do you do the following activities online (on any device, e.g. desktop, tablet, mobile)? ; Email
+onlineActivities; sn; How often do you do the following activities online (on any device, e.g. desktop, tablet, mobile)? ; Social Media (e.g. Facebook, Twitter)
+onlineActivities; news; How often do you do the following activities online (on any device, e.g. desktop, tablet, mobile)? ; Read news
+onlineActivities; conf; How often do you do the following activities online (on any device, e.g. desktop, tablet, mobile)? ; Audio/Video conference
+onlineActivities; im; How often do you do the following activities online (on any device, e.g. desktop, tablet, mobile)? ; Instant Message
+onlineActivities; stream; How often do you do the following activities online (on any device, e.g. desktop, tablet, mobile)? ; Stream audio or video (e.g. Hulu, Netflix, Pandora)
+onlineActivities; games; How often do you do the following activities online (on any device, e.g. desktop, tablet, mobile)? ; Play games
+onlineHours;; On a typical day, how many hours do you spend online?;
+general; folkG01; Please indicate whether you agree or disagree with the following statements. ; I feel confident trouble shooting Internet problems
+general; folkG02; Please indicate whether you agree or disagree with the following statements. ; I feel confident using the Internet to gather data
+general; folkG03; Please indicate whether you agree or disagree with the following statements. ; I feel confident learning advanced skills within a specific Internet program
+general; folkG04; Please indicate whether you agree or disagree with the following statements. ; I feel confident describing functions of Internet hardware
+general; folkG05; Please indicate whether you agree or disagree with the following statements. ; I feel confident turning to an on­line discussion group when help is needed
+general; folkG06; Please indicate whether you agree or disagree with the following statements. ; I feel confident understanding terms/words relating to Internet hardware
+general; folkG07; Please indicate whether you agree or disagree with the following statements. ; I feel confident explaining why a task will not run on the Internet
+general; folkG08; Please indicate whether you agree or disagree with the following statements. ; I feel confident understanding terms/words relating to Internet software
+edu;; Which of the following best describes you?;
+edu; other; Which of the following best describes you? ; Other
+ITbg;;" Have you ever worked in a """"high tech"""" job such as computer programming, IT, or computer networking?";
+cyberBg;; Do you have any industrial experience of cybersecurity or a related discipline; for example as a security engineer?
+highschool;; Where did you get your high school diploma?;
+highschool; other; Where did you get your high school diploma? ; Other
+undergrad;; If you are a postgraduate student, where did you do your undergraduate studies?;
+undergrad; other; If you are a postgraduate student, where did you do your undergraduate studies? ; Other
+englishLevel;; Please rate your ability in English.;
+courses; cs; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; Computer Security (Information Security)
+courses; net; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; Networking and Communication (Computer Networks)
+courses; os; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; Operating Systems
+courses; usec; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; Usable Security and Privacy
+courses; se; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; Software Engineering
+courses; prof; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; Social Issues and Professional Practice
+courses; hci; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; Human-Computer Interaction
+courses; crypto; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; Cryptography
+courses; sp; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; Secure Programming
+courses; block; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; Blockchains and Distributed Ledgers
+courses; ethics; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; Ethics
+courses; cyber; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; Cybercrime and Cyber Security
+courses; iot; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; IoT Systems, Security, and the Cloud
+courses; st; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; Software Testing
+courses; arch; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; Software Architecture, Process, and Management
+courses; ds; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; Distributed Systems
+courses; none; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; None of above
+courses; other; Which subject areas below have you covered in previous courses here or at any other university? (please do not include courses you are taking now) ; Other
+courseCurrent; sd; Which of the following courses are you currently enrolled in? ; Software Development
+courseCurrent; crypto; Which of the following courses are you currently enrolled in? ; Introduction to Modern Cryptography
+courseCurrent; iot; Which of the following courses are you currently enrolled in? ; Internet of Things Systems, Security, and the Cloud (IoTSSC)
+courseCurrent; sp; Which of the following courses are you currently enrolled in? ; Secure Programming
+courseCurrent; arch; Which of the following courses are you currently enrolled in? ; Software Architecture, Process, and Management
+courseCurrent; usec; Which of the following courses are you currently enrolled in? ; Usable Security and Privacy
+courseCurrent; os; Which of the following courses are you currently enrolled in? ; Operating Systems
+courseCurrent; st; Which of the following courses are you currently enrolled in? ; Software Testing
+courseCurrent; cs; Which of the following courses are you currently enrolled in? ; Computer Security
+courseCurrent; none; Which of the following courses are you currently enrolled in? ; None of above
+certificates;; Do you have any security certificates such as Security+, Certified Ethical Hacker, CCNA Security, etc.?;
+certificates; other; Do you have any security certificates such as Security+, Certified Ethical Hacker, CCNA Security, etc.? ; Other
+age;; What is your age?;
+gender;; What is your gender?;
+gender; other; What is your gender? ; Other
+courseConsent;;" Use my answers in the Usable Security and Privacy course.  The Usable Security and Privacy course will use the information in this survey to learn about survey design and analysis. If you answer """"yes"""" to this question, we will include your fully anonymised answers in the data set we provide to the students. Having data from many different people will greatly help students in the course with their learning.   ";
+researchConsent;;" Use my answers for research.  If you indicate """"yes"""", we will use your fully anonymised answers in academic research to better understand how students in different courses think about security and use it in their daily lives. This research may impact educators in how we design courses to better support the needs of students as well as impact the types of post-university education employers may want to make available.";
+comment;; Any comments or thoughts you would like to share with us? (These will not be shared with the USec course.);
+interviewtime;; Total time;
