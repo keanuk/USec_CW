@@ -1,5 +1,10 @@
 #!/usr/bin/env Rscript
 
-rawData <- read.csv(file="inf-students(2).csv", header=TRUE, sep=",")
+survey <- read.csv(file="inf-students(2).csv", header=TRUE, sep=",")
+numSurvey <- read.csv(file="numerics-data(2).csv", header=TRUE, sep=",")
 
-print(rawData)
+cleanNum <- numSurvey[numSurvey$sebisLikert.sebisCheck. == 5, ]
+cleanNum <- cleanNum[cleanNum$hackersLikert.folkHCheck. == 2, ]
+
+print(cleanNum$sebisLikert.sebisCheck.)
+print(cleanNum$hackersLikert.folkHCheck.)
